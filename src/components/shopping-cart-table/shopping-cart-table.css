@@ -1,0 +1,7 @@
+.gap {
+    display: flex;
+    gap: 10px;
+}
+.center {
+    display: flex;
+}
